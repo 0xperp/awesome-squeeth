@@ -5,6 +5,8 @@
 
 Trade at [squeeth.opyn.co](https://squeeth.opyn.co/) and the [launch announcment](https://twitter.com/opyn_/status/1480819918811676674?s=20)
 
+[Squeeth Monorepo](https://github.com/opynfinance/squeeth-monorepo)
+
 ## Articles 
 ### Background
 - [Everlasting Options](https://www.paradigm.xyz/2021/05/everlasting-options/)
