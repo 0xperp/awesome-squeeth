@@ -1,6 +1,8 @@
 # Awesome Squeeth (ETH^2)
 ### List of Squeeth Resources and Threads
 
+![squeeth](squeeth.png)
+
 Trade at [squeeth.opyn.co](https://squeeth.opyn.co/) and the [launch announcment](https://twitter.com/opyn_/status/1480819918811676674?s=20)
 
 ## Articles 
