@@ -34,3 +34,12 @@ Trade at [squeeth.opyn.co](https://squeeth.opyn.co/) and the [launch announcment
 ## Integrations 
 - [Euler.finance](https://twitter.com/eulerfinance/status/1481315205011611648?s=20) 
 - [Yield Protocol](https://twitter.com/yield/status/1481389088980627456?s=20) :eyes:
+
+## Use Cases 
+- Longing Squeeth means you are long gamma, and is similar to holding a perpetual at the money call options
+- Shorting Squeeth means you are short gamma, and is similar to selling a perpetual at the money straddle
+- [Hedging Options](https://medium.com/opyn/how-to-hedge-options-with-squeeth-b5e30d5d83ac) 
+- [Hedging LP positions](https://medium.com/opyn/hedging-uniswap-v3-with-squeeth-bcaf1750ea11)
+- 1x Long ETH Exposure with a oSQTH:USDC LP
+- 1.5x Long ETH Exposure with a oSQTH:ETH LP
+- Usage as a Volatility oracle
