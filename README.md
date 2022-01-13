@@ -31,6 +31,6 @@ Trade at [squeeth.opyn.co](https://squeeth.opyn.co/) and the [launch announcment
 - [Squeeth Overview](https://twitter.com/AlphaSerpentis_/status/1479665823522463746?s=20)
 - [Derivatives Pricing overview and Squeeth](https://twitter.com/snarkyzk/status/1476259224988663809?s=20)
 
-## Intregrations 
+## Integrations 
 - [Euler.finance](https://twitter.com/eulerfinance/status/1481315205011611648?s=20) 
 - [Yield Protocol](https://twitter.com/yield/status/1481389088980627456?s=20) :eyes:
