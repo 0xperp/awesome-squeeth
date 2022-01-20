@@ -19,6 +19,7 @@ Trade at [squeeth.opyn.co](https://squeeth.opyn.co/) and the [launch announcment
 - [Hedging Options with Squeeth](https://medium.com/opyn/how-to-hedge-options-with-squeeth-b5e30d5d83ac)
 - [Hedging Uniswap V3 Positions with Squeeth](https://medium.com/opyn/hedging-uniswap-v3-with-squeeth-bcaf1750ea11)
 - [Squeeth Funding rate and Volatility](https://medium.com/opyn/squeeth-insides-volume-1-funding-and-volatility-f16bed146b7d)
+- [Power perp mechanism, arbitrage, and use cases](https://colab.research.google.com/drive/1mrxubKiFUhlavol4a38NJYaANdSNAEun)
 
 ## Threads
 - [The Concept](https://twitter.com/wadepros/status/1444690047639461893)
