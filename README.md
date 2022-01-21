@@ -21,6 +21,9 @@ Trade at [squeeth.opyn.co](https://squeeth.opyn.co/) and the [launch announcment
 - [Squeeth Funding rate and Volatility](https://medium.com/opyn/squeeth-insides-volume-1-funding-and-volatility-f16bed146b7d)
 - [Power perp mechanism, arbitrage, and use cases](https://colab.research.google.com/drive/1mrxubKiFUhlavol4a38NJYaANdSNAEun)
 
+## Videos
+ - [Understanding Squeeth](https://www.youtube.com/watch?v=PcbyWwN0bTw)
+
 ## Threads
 - [The Concept](https://twitter.com/wadepros/status/1444690047639461893)
 - [Evolution of the Concept](https://twitter.com/wadepros/status/1478808166917885959)
