@@ -47,3 +47,20 @@ Trade at [squeeth.opyn.co](https://squeeth.opyn.co/) and the [launch announcment
 - 1x Long ETH Exposure with a oSQTH:USDC LP
 - 1.5x Long ETH Exposure with a oSQTH:ETH LP
 - Usage as a Volatility oracle
+
+## Strategies 
+
+- [General Documentation](https://opyn.gitbook.io/squeeth/contracts/strategies)
+- [Strategies FAQ](https://opyn.gitbook.io/squeeth/resources/squeeth-strategies-faq)
+
+### Crab Vault V2
+
+This introduced 
+• Single Price Clearing Auction
+• Partial Fills of Hedges
+• Improved Auction UI
+• Gasless Bids
+
+- [Crab V2 is Live](https://medium.com/opyn/automated-squeeth-strategies-crab-v2-is-now-live-8444246610c8)
+- [The auction for everyone](https://medium.com/opyn/the-auction-for-everyone-how-crab-v2-makes-defi-more-accessible-72921dd099f)
+- [Crab V2 FAQ](https://opyn.gitbook.io/squeeth/resources/crab-v2-faq)
